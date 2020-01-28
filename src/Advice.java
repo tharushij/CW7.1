@@ -6,4 +6,4 @@ public class Advice extends Thought
         super.message();
         System.out.println("CW 7.1 - Tharushi Jayasinghe");
     }
-} // end class Advice
+} //end class Advice
