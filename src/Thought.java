@@ -5,4 +5,4 @@ public class Thought
         System.out.println("I'm thinking, I'm thinking.");
         System.out.println();
     }
-} //end class Thought
+} // end class Thought
