@@ -8,4 +8,4 @@ public class Messages
         thinking.message();
         speaking.message(); //overridden method
     } //end method main
-} //end class messages
+} // end class messages
